@@ -55,7 +55,7 @@ search.addEventListener('click', () => {
                     image.src = 'Images/fog.png';
                     break;
 
-                case 'Few-Clouds':
+                case 'Mist':
                     image.src = 'Images/few-clouds.png';
                     break;
 
